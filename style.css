@@ -62,8 +62,8 @@ canvas {
 }
 
 .pointer {
-  width: 5px;
-  height: 5px;
+  width: 0px;
+  height: 0px;
   background-color: rgba(255, 0, 0, 1);
   border-radius: 50%;
 }
