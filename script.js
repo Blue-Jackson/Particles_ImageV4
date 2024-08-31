@@ -13,7 +13,7 @@ let particles = [];
 content.appendChild(app.view);
 app.stage.addChild(container);
 
-loader.add("img", "https://images.squarespace-cdn.com/content/v1/59962ced37c58197c0ae86f8/1503337875054-55GKXXJ6Z1U3MR5JMCLM/portrait-photography-tutorial-posing.jpg?format=500w");
+loader.add("img", "https://media.discordapp.net/attachments/1249904363590254696/1275614643632734269/lowrestest.png?ex=66d30e76&is=66d1bcf6&hm=7f837f6b26c0ba9a37eff360024b8723352c19bc88d077c7bda1654e0344c86c&=&format=webp&quality=lossless&width=987&height=1176");
 
 class Particle {
   constructor(x, y, size, texture) {
